@@ -113,7 +113,8 @@ The analysis was conducted using a structured workflow:
 
 ### 5. Statistical Summary by Sex
 - Male and female athletes differ in both **minimum and maximum speeds**.  
-- **Insight Note**: Extreme values highlight physiological and participation-based differences across genders.  
+- **Insight Note**: Extreme values highlight physiological and participation-based differences across genders.
+- ![summary by sex](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/i5.1.png).
 
 
 
