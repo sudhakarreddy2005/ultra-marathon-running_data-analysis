@@ -108,7 +108,7 @@ The analysis was conducted using a structured workflow:
 - More races occur in **winter** than summer.  
 - **Insight Note**: Seasonal climate factors strongly influence both participation and performance.  
 
-![Seasonal Speeds](images/seasonal_speeds.png)
+![Seasonal Speeds](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/i4.png)
 
 
 ### 5. Statistical Summary by Sex
