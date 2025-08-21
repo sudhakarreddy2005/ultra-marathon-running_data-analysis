@@ -41,6 +41,8 @@ The analysis was conducted using a structured workflow:
 
 ## Data Structure
 
+![](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/executive_summary_dashboard.png).
+
 | Column            | Description                                            |
 | ----------------- | ------------------------------------------------------ |
 | Athlete ID        | Unique anonymised identifier for each runner           |
