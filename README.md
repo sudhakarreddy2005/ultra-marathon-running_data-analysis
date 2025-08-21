@@ -101,7 +101,7 @@ The analysis was conducted using a structured workflow:
 - Events with multiple editions reveal **consistent speed trends**.  
 - **Insight Note**: Certain iconic races exhibit stable long-term performance patterns.  
 
-![Event vs Speed](images/event_vs_speed.png)
+![Event vs Speed](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/i3.1.png)
 
 
 ### 4. Seasonal Races
