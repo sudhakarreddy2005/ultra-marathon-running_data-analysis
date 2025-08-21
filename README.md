@@ -93,7 +93,7 @@ The analysis was conducted using a structured workflow:
 - Country-level comparison highlights variations in average speeds.  
 - **Insight Note**: Athletes from endurance-dominant nations (e.g., USA, Japan, France) show consistently higher performance.  
 
-![Country vs Speed](images/country_vs_speed.png)
+![Country vs Speed](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/i2.png)
 
 
 
