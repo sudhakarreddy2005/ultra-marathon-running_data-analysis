@@ -41,7 +41,7 @@ The analysis was conducted using a structured workflow:
 
 ## Data Structure
 
-![](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/executive_summary_dashboard.png).
+
 
 | Column            | Description                                            |
 | ----------------- | ------------------------------------------------------ |
@@ -54,7 +54,7 @@ The analysis was conducted using a structured workflow:
 | Athlete Avg Speed | Average speed of the athlete during the event (km/h)   |
 | Race Season       | Categorised as Summer/Winter                           |
 
-
+![](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/executive_summary_dashboard.png)
 
 ## Data Types
 
