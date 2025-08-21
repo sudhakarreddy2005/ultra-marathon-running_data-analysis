@@ -84,7 +84,7 @@ The analysis was conducted using a structured workflow:
 - Men and women show **different speed distributions**, with men having slightly higher averages.  
 - **Insight Note**: Female athletes demonstrate competitive endurance performance, especially in longer races.  
 
-![Sex vs Speed](images/i1.png)
+![Sex vs Speed](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis/blob/main/i1.png)
 
 
 
